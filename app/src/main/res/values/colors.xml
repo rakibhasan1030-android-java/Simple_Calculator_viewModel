@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+
+    //design color
+    <color name="very_dark_gray_calculator_bg">#5a5a5a</color>
+    <color name="very_dark_gray_button_bg">#808080</color>
+    <color name="dark_gray_display">#808080  </color>
+
+
+</resources>
